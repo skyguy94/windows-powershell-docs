@@ -132,7 +132,7 @@ The acceptable values for this parameter are:
 - Windows Server 2012 R2:  6 or Win2012R2
 - Windows Server 2016: 7 or WinThreshold
 
-The domain functional level cannot be lower than the forest functional level, but it can be higher.
+The domain functional level cannot be lower than the forest functional level, but it can't be higher.
 The default is automatically computed and set.
 
 ```yaml
